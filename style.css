@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 #showcase {
   background-image: url("img/bgweb.jpg");
   height: 100vh; 
